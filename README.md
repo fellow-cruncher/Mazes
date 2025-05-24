@@ -10,3 +10,5 @@ Instrukcja obługi aplikacji:
 - spacja znowu, żeby obniżyć % zamknęcia o 2 p.p.
 
 Jeżeli ten będzie wynosił 0, po naciśnięciu spacji wróci na 100.
+
+Okno aplikacji nie potrafi się skalować. Referencyjną rozdzielczość to 1920x1200.
