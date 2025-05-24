@@ -11,4 +11,4 @@ Instrukcja obługi aplikacji:
 
 Jeżeli ten będzie wynosił 0, po naciśnięciu spacji wróci na 100.
 
-Okno aplikacji nie potrafi się skalować. Referencyjną rozdzielczość to 1920x1200.
+Okno aplikacji nie potrafi się skalować. Referencyjna rozdzielczość to 1920x1200.
